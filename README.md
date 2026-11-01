@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0c3B4bm56N3B6YnJ5eHBoZnd4eG56N3B6YnJ5eHBoZnd4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="220" style="object-fit: cover;" alt="Pixel Banner"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedvedForces/MedvedForces/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MedvedForces/MedvedForces/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
 
 <p align="center">
@@ -37,18 +40,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-</details>
-
-<br>
-
-<details open>
-<summary><b>🕹️ Arcade Log (Контрибьюты)</b></summary>
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedvedForces/MedvedForces/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MedvedForces/MedvedForces/output/github-contribution-grid-snake.svg">
-</picture>
 </details>
 
 <br>
