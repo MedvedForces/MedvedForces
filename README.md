@@ -46,10 +46,10 @@
 
 <p align="left">
   <a href="https://codeforces.com/profile/medok" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=medok&theme=github_dark" height="165" alt="Codeforces Stats" />
+    <img src="https://cf-stats.vercel.app/api?username=medok&theme=dark&disable_animations=false" height="215" alt="Codeforces Stats" />
   </a>
   <a href="https://leetcode.com/u/Medved_Forces/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Medved_Forces?theme=dark&font=Ubuntu" height="165" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Medved_Forces?theme=dark&font=Ubuntu" height="145" alt="LeetCode Stats" />
   </a>
 </p>
 </details>
