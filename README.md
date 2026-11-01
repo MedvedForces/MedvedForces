@@ -1,12 +1,9 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedvedForces/MedvedForces/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MedvedForces/MedvedForces/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/MedvedForces/MedvedForces/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Dark Snake" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=38B764&center=true&vCenter=true&width=600&lines=INSERT+COIN+TO+START;PLAYER+1%3A+BACKEND+ENGINEER;LEVEL+UP+YOUR+ARCHITECTURE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=INSERT+COIN+TO+START;PLAYER+1%3A+BACKEND+ENGINEER;LEVEL+UP+YOUR+ARCHITECTURE" alt="Typing SVG" />
 </p>
 
 <details open>
@@ -18,8 +15,8 @@
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MedvedForces&theme=gruvbox" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MedvedForces&theme=gruvbox" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MedvedForces&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MedvedForces&theme=github_dark" height="165" />
 </p>
 </details>
 
