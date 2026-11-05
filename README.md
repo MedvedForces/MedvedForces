@@ -66,7 +66,7 @@
 
 | 🛡️ Class / Tech | 📜 Quest Name (Project) |
 | :--- | :--- |
-| ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) | 📦 **[FIIT-Folder](https://github.com/hereexe/FIIT-Folder)** &nbsp;•&nbsp; 📦 **[MatMechFreeRooms](https://github.com/maxferol/MatMechFreeRoom)** &nbsp;•&nbsp; 📦 **[PhotoEditor]([https://github.com/DiOsa1317/PhotoEditor](https://github.com/MedvedForces/PhotoEditor))** &nbsp;•&nbsp; 📦 **[Squid Game shooter](https://github.com/MedvedForces/Squid-Game-Shooter)** |
+| ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) | 📦 **[FIIT-Folder](https://github.com/hereexe/FIIT-Folder)** &nbsp;•&nbsp; 📦 **[MatMechFreeRooms](https://github.com/maxferol/MatMechFreeRoom)** &nbsp;•&nbsp; 📦 **[PhotoEditor](https://github.com/MedvedForces/PhotoEditor)** &nbsp;•&nbsp; 📦 **[Squid Game shooter](https://github.com/MedvedForces/Squid-Game-Shooter)** |
 | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | 📦 **[fkb-red](https://github.com/n-averyanov/fkb_red)** &nbsp;•&nbsp; 📦 **[pet-projects](https://github.com/MedvedForces/postupashki-backend-course)** |
 
 </details>
