@@ -41,13 +41,14 @@
 <br>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,postgres,mongodb,redis,rabbitmq,kafka,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,python,postgres,mongodb,redis,rabbitmq,kafka,docker,linux&theme=dark" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -68,6 +69,7 @@
 | :--- | :--- |
 | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) | 📦 **[FIIT-Folder](https://github.com/hereexe/FIIT-Folder)** &nbsp;•&nbsp; 📦 **[MatMechFreeRooms](https://github.com/maxferol/MatMechFreeRoom)** &nbsp;•&nbsp; 📦 **[PhotoEditor](https://github.com/DiOsa1317/PhotoEditor)** &nbsp;•&nbsp; 📦 **[Squid Game shooter](https://github.com/MedvedForces/Squid-Game-Shooter)** |
 | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | 📦 **[fkb-red](https://github.com/n-averyanov/fkb_red)** &nbsp;•&nbsp; 📦 **[pet-projects](https://github.com/MedvedForces/postupashki-backend-course)** |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 📦 **[Battle-City](https://github.com/MedvedForces/Battle-City)** |
 
 </details>
 
